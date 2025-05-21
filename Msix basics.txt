@@ -1,0 +1,16 @@
+1.What is meant by application packaging?
+
+ Application packaging is also known as software packaging, is the process of bundling all the necessary files, 
+ configuration, and dependencies of an application into a single deployable package. This package allows for                                    easy installation, management , and distribution of the software across various environment.
+
+2.Write down the steps involved in install MSIX?
+
+1. Search for a Microsoft store on your computer.
+2. Inside the Microsoft store search for MSIX package installer.
+3. Click on the Get option.
+4. After completion, click on the Yes to Allow the installation.
+5. After completing the installation click on the Accept button
+ 																																					
+ 
+ 
+ 

@@ -1,0 +1,22 @@
+[1]Write down the Intune application deployment steps?
+
+Step-1:set up Intune 
+Step-2:Add ,configure, and protect Apps
+Step-3:Use compliance and conditional access
+Step-4:Configure device features and settings 
+Step-5:Enroll your devices 
+
+
+[2]Write down the steps to Install Intune? 
+
+Step-1:Review the supported configurations 
+Step-2:Sign Up for Microsoft Intune
+Step-3:Configure a custom domain name for your Intune tenant
+Step-4:Add Users to Intune
+Step-5:Create groups in Intune
+Step-6:Manage licenses
+Step-7:Manage Roles and grant admin permissions for Intune
+Step-8:Set the mobile device management authority
+Step-9:Customise the Intune company portal
+
+ 

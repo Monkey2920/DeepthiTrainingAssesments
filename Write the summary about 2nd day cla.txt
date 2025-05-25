@@ -1,0 +1,17 @@
+Write the summary about 2nd day class?
+
+First we discuss about Microsoft installation in this we have 1.Admin  context
+                                                              2.user   context
+                                                              3.system context
+After that discuss about create and assign logon script, registry keys, deployment strategies ,active leverage set up and how it works. And mam explains group policy ,error handling ,autologon,windows power shell, process
+explorer.
+And also discuss about system internals like 1.leverage active set up
+                                             2.create and assign logon scripts
+                                             3.consider deployment strategies
+
+And we learn about differences between windows 11 and windows 10 and finally about add packs. In this session we spent time on  both theory part and coding part.                                              
+
+
+
+
+ 

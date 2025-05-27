@@ -1,0 +1,44 @@
+Write the summary of today session?
+First we discuss about ADT session: App deployment tool kit
+In this we discuss about pre defined functions exit codes deployment structure ,deployment modes, and its uses
+and we discuss about scripting deployment logic And using function running scripts utilizing ADT sessions.
+After that we discuss about the powershell app deployement tool kit. 
+it contains toolkit examples:
+files
+support files
+deploy application.exe
+deploy application.ps
+strings
+images
+configuration
+After we discuss about understanding PS App deploy tool kit and templates using it contain 4 steps:
+using the template script
+creating a new deployment using templates 
+additional resources
+and customizing the template script.
+here, we discuss about more detail of configuration 
+1.download and extract
+2.locate configuration file
+3.edit configuration
+4.tool kit options
+5.banner,logo,icon options
+6.MSI options
+7.UI options
+8.save and apply
+and we also discuss about benefits of using appdeploytoolkit config.xml:app
+here we discuss about break down of the platform value concept and usages
+and we discuss about what power shell deployment power kit?
+the power shell app deployment tool kit is an open source project that provides frame work and set of tools for deploying software application using power shell scripting and 
+we discuss about registry keys?
+and how to configure PS app tool kit?
+the PS app deploy tool kit installation logic is composed 3 main actions
+1.Installation
+2.uninstallation
+and
+3.Repair
+and the sub  actions are:
+1.pre installation
+2.Installation
+3.post installation
+
+

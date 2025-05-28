@@ -1,0 +1,41 @@
+Write about the summary of the today session?(28-05-2025)
+First we discuss about PS app deployment kit, The main commands for installation and uninstallation are Execute 
+- MSI and uninstall-ADT applications respectively 
+
+1.Installation 
+2.Un installation
+3.Other related commands
+4.Un registered-ADTDII
+
+After that we discuss about in PS app deploy kit, Execute MSI is a function used for installing,uninstalling,
+patching,Repairing,or performing active setup on MSI and MSP files are using MSI product codes.
+
+INSTALLATION:
+ Basic uses parameters we can simply provide  of the MSI file and action parameter set to "install"
+UNINSTALLATION:
+ Basic uses set action to uninstall .
+
+IMPORTANT CONSIDERATIONS:
+1.Product code
+2.Logging
+3.pre flight checks
+4.error handling
+
+The powershell app deployment toolkit is scripting framework that simplifies application deployment 
+Here's a more detailed breakdown of the configuration process.
+1.Download and extract
+2.Locate configuration file
+3.Edit configuration
+*Tool kit options
+*Banner,Logo and icon options
+*MSI options
+*UI options
+*UI messages
+4.Save and apply
+*Centralised Configuration
+*Consistency
+*Customization
+*Simplilfied Scripting
+
+And Today we discuss about how to execute commands in Powershell.
+
